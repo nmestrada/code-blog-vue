@@ -2,9 +2,9 @@
 title: Promises
 ---
 
-## Keeping your Promises, in JavScript. 
+## Keeping your Promises, in JavaScript. 
 
-So you're here probably because you've heard the term Promises thrown about and want to have a better understanding. That's really good! Because Promises in JavaScript is probably the question I get asked the most in interviews for developer roles. 
+So you're here probably because you've heard the term Promises thrown about and want to have a better understanding. That's really good! Because Promises always confused me when I started to learn JavaScript. 
 
 So what are Promises?
 
